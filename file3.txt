@@ -1,5 +1,9 @@
-Este é o exemplo de um ficheiro de texto file3
+<h1>Lista de coisas</h1>
 
-MUDEI TODO
-Teste de adicionar
-Olá , mudei o ficheiro
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>sandes</li>
+</ul>
